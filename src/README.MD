@@ -1,7 +1,7 @@
-<h1 align="center"> DevLinks </h1>
+<h1 align="center"> One Piece - Project☠️</h1>
 
 <p align="center">
-Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+Projeto realizado na maratona Dev em Dobro.
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-  <img alt="Projeto DevLinks" src="github/Preview.png" width="100%">
+  <img alt="Projeto One Piece" src="github/OnePiece-Preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -28,15 +28,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS
 - JavaScript
 - Git e Github
-- Figma
 
 ## 💻 Projeto
 
-O projeto DevLinks é uma forma de agrupar links, que podem ser utilizados para a exibição do portfólio, mídias sociais, novos projetos e muitas opções.
-
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+O projeto One Piece agrupa curiosidades, características, imagens e descrições sobre os principais personagens do mangá, que recebeu uma série live action recentemente e é caracterizado como uma febre mundial nos seriados de mangá.
 
 ## :memo: Licença
 
@@ -44,4 +39,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito com ♥ by Guilherme A. Gongora :wave:
